@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/src/asp.net core/LearnEnglish/.vs/LearnEnglish/v17
+/src/asp.net core/LearnEnglish/.vs/LearnEnglish/FileContentIndex
+/src/asp.net core/LearnEnglish/LearnEnglish.Application/obj
+/src/asp.net core/LearnEnglish/LearnEnglish.Domain/obj
+/src/asp.net core/LearnEnglish/LearnEnglish.EntityFrameWork/obj
+/src/asp.net core/LearnEnglish/LearnEnglish.Web.Host/obj
