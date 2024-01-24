@@ -1,0 +1,8 @@
+@LearnEnglish.Authentication_HostAddress = http://localhost:5145
+
+GET {{LearnEnglish.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+
+###

@@ -8,3 +8,11 @@
 /src/asp.net core/LearnEnglish/LearnEnglish.Domain/obj
 /src/asp.net core/LearnEnglish/LearnEnglish.EntityFrameWork/obj
 /src/asp.net core/LearnEnglish/LearnEnglish.Web.Host/obj
+/src/asp.net core/LearnEnglish/.vs
+/src/asp.net core/LearnEnglish/.vscode
+/src/asp.net core/LearnEnglish/LearnEnglish.Authentication/obj
+/src/asp.net core/LearnEnglish/LearnEnglish.GetWay/obj
+/src/asp.net core/LearnEnglish/LearnEnglish.Gateway/obj
+/src/asp.net core/LearnEnglish/EventBus/obj
+/src/asp.net core/LearnEnglish/EventBus.RabbitMQ/obj/Debug/net8.0
+/src/asp.net core/LearnEnglish/EventBus.RabbitMQ/obj
